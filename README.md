@@ -1,3 +1,3 @@
 # MyResume
-This Repo will contain my resume.<b />
+This Repo will contain my resume.<br />
 UNDER CONSTRUCTION...
